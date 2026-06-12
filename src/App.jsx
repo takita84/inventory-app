@@ -274,7 +274,7 @@ export default function App() {
 
   return (
     <div style={panelStyle}>
-      <h1 style={{ marginBottom: "8px" }}>棚卸アプリ（棚卸モード + 探索モード）</h1>
+      <h1 style={{ marginBottom: "8px" }}>棚卸アプリ</h1>
       <p style={{ marginTop: 0, color: "#475569" }}>
         棚卸モードでは登録済み/未登録を判定、探索モードでは指定したQRだけに反応します。
       </p>
